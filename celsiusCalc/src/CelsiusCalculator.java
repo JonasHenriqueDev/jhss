@@ -10,8 +10,9 @@ public class CelsiusCalculator {
         double celsius = 5/9d * (farenheit - 32);
 
         System.out.print(celsius);
-        JOptionPane.showMessageDialog(null, "A temperatura é: " + celsius + "C°",
-                "Temperatura em Celsius", JOptionPane.OK_OPTION);
+        JOptionPane.showMessageDialog(null,
+                String.format("A temperatura é: %2.2f", celsius) + "C°",
+                "Temperatura em Celsius", JOptionPane.INFORMATION_MESSAGE);
 
     }
 }
