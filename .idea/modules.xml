@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BarrasHorizontais/BarrasHorizontais.iml" filepath="$PROJECT_DIR$/BarrasHorizontais/BarrasHorizontais.iml" />
       <module fileurl="file://$PROJECT_DIR$/celsiusCalc/celsiusCalc.iml" filepath="$PROJECT_DIR$/celsiusCalc/celsiusCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jhss.iml" filepath="$PROJECT_DIR$/jhss.iml" />
       <module fileurl="file://$PROJECT_DIR$/joguinhoDeAdiviacao/joguinhoDeAdiviacao.iml" filepath="$PROJECT_DIR$/joguinhoDeAdiviacao/joguinhoDeAdiviacao.iml" />
