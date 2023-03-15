@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b1ada2-b63f-41e5-b9af-2c6bc764d564" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/BarrasHorizontais/BarrasHorizontais.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BarrasHorizontais/src/BarrasHorizontais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="84b1ada2-b63f-41e5-b9af-2c6bc764d564" name="Changes" comment="Adicionado uma aplicação simples de um Cinema utilizando o FlowLayout" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +46,7 @@
       <recent name="C:\Users\Jonas\IdeaProjects\jhss\celsiusCalc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Cinema">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calc" />
       <module name="BarrasHorizontais" />
@@ -67,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Cinema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cinema" />
+      <module name="Cinema" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="jhss" />
@@ -74,9 +75,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Palindromo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindromo" />
+      <module name="Palindromo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cinema" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Palindromo" />
         <item itemvalue="Application.Calc" />
         <item itemvalue="Application.CelsiusCalculator" />
       </list>
@@ -105,12 +115,34 @@
       <option name="project" value="LOCAL" />
       <updated>1677929062016</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1678314889478</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678314889478</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1678315044747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678315044747</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adicionado uma aplicação simples de um Cinema utilizando o FlowLayout">
+      <created>1678897386358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678897386358</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Adicionado uma aplicação simples de um Cinema utilizando o FlowLayout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado uma aplicação simples de um Cinema utilizando o FlowLayout" />
   </component>
 </project>
