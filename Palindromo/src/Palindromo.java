@@ -1,7 +1,7 @@
 public class Palindromo {
     public static void main(String[] args) {
 
-        String palavra = "Tenet";
+        String palavra = "arara";
         String reversa = "";
 
         for (int i = (palavra.length() - 1); i >= 0; i--) {

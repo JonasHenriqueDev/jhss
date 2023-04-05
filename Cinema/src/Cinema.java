@@ -14,6 +14,9 @@ public class Cinema {
         layoutCinema.setResizable(false);
         layoutCinema.reservarLugar();
 
+
+
+
         Fileira cine = new Fileira();
         cine.addAssento(1, 2);
         System.out.println(cine.mostrarAssentos());
